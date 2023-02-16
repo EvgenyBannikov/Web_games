@@ -1,0 +1,29 @@
+{
+  "name": "web_games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --mode development --watch",
+    "dev": "webpack --mode development",
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenyBannikov/Web_games.git"
+  },
+  "author": "Evgeny Bannikov <evgeniibannikov03@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgenyBannikov/Web_games/issues"
+  },
+  "homepage": "https://github.com/EvgenyBannikov/Web_games#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
