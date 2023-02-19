@@ -1,0 +1,9 @@
+.main__list-container__list__elem__link {
+  font-size: 18px;
+  padding: 20px 0px 20px 40px;
+  display: block;
+}
+
+.main__list-container__list__elem__link:hover {
+  color: #5b21fd;
+}
