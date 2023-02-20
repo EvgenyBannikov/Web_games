@@ -1,15 +1,5 @@
 .main__list-container__list__elem {
   list-style-type: none;
   padding:0px 0px 0px 0px;
-  border-radius: 2px;
   margin: 0px 4px 0px 4px;
-  background-color: rgb(26, 26, 26);
-  box-shadow: 0px 5px 5px -5px rgba(124, 124, 124, 0.324);
-}
-.main__list-container__list__elem:hover {
-  background-color: rgb(17, 17, 17);
-  box-shadow: 0px 7px 15px -7px rgba(253, 143, 0, 0.8);
-  transition: 0.3s;
-  transform: scale(1.005);
-  backface-visibility: hidden;
 }

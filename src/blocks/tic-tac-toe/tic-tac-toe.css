@@ -1,0 +1,9 @@
+@import url('container/container.css');
+@import url('container/button.css');
+
+.tic-tac-toe {
+  height: 100%;
+}
+.wrapper {
+  margin: 0 auto;
+}

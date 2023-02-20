@@ -1,13 +1,17 @@
 @import url('../global-style/logo/logo.css');
-@import url('header/header__logo.css');
-@import url('header/header.css');
-@import url('../theme/theme-grey.css');
+@import url('header-main/header-main__logo.css');
+@import url('header-main/header-main.css');
+@import url('../theme/theme-grey/theme-grey.css');
 @import url('main/list-container/paragraph.css');
 @import url('main/list-container/list/list.css');
 @import url('main/list-container/list/link.css');
 @import url('main/list-container/list/elem.css');
 @import url('../global-style/link/link.css');
 @import url('../global-style/paragraph/paragraph.css');
+@import url('../global-style/header-game/logo/logo.css');
+@import url('../theme/theme-grey/button/btn.css');
+
+@import url('../tic-tac-toe/tic-tac-toe.css');                  /* tic-tac-toe styles*/
 
 .body {
  margin: 0;
