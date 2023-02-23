@@ -3,3 +3,7 @@
   font-family: 'Comic Sans MS', sans-serif;
   color:rgb(129, 129, 129);
 }
+
+.link:hover {
+  color: #5b21fd;
+}

@@ -1,0 +1,15 @@
+.close:after {
+  display: inline-block;
+  content: "\00d7";
+  position: absolute;
+  font-size: 40px;
+  color:rgb(129, 129, 129);
+  right: 30px;
+  top: 10px;
+}
+
+.close:hover:after {
+  color: #5b21fd;
+  transition: 0.3s;
+  transform: scale(1.25);
+}

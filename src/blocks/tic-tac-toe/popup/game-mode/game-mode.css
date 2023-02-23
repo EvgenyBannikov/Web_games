@@ -1,0 +1,10 @@
+.tic-tac-toe__popup__game-mode {
+  width: 100%;
+  height: 150px;
+  background-color: rgb(39, 39, 39);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+}
