@@ -9,10 +9,11 @@
 @import url('../global-style/paragraph/paragraph.css');
 @import url('../global-style/header-game/logo/logo.css');
 @import url('../theme/theme-grey/button/btn.css');
-@import url('../global-style/popup/popup.css');
-@import url('../global-style/close/close.css');
+@import url('../main-menu/main/list-container/paragraph.css');
+/* @import url('../global-style/popup/popup.css');
+@import url('../global-style/close/close.css'); */
 
-@import url('../tic-tac-toe/tic-tac-toe.css');                  /* tic-tac-toe styles*/
+/* @import url('../tic-tac-toe/tic-tac-toe.css');                  tic-tac-toe styles */
 
 .body {
  margin: 0;

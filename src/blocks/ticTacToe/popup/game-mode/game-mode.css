@@ -8,3 +8,7 @@
   flex-wrap: wrap;
   column-gap: 20px;
 }
+
+.tic-tac-toe__popup__select-player {
+  column-gap: 40px;
+}

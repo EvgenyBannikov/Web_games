@@ -1,0 +1,20 @@
+@import url('container/container.css');
+@import url('container/button.css');
+@import url('popup/game-mode/paragraph.css');
+@import url('popup/game-mode/btn.css');
+@import url('popup/game-mode/game-mode.css');
+@import url('../global-style/popup/popup.css');
+@import url('../global-style/close/close.css');
+@import url('../global-style/logo/logo.css');
+@import url('../theme/theme-grey/theme-grey.css');
+@import url('../global-style/link/link.css');
+@import url('../global-style/paragraph/paragraph.css');
+@import url('../global-style/header-game/logo/logo.css');
+@import url('../theme/theme-grey/button/btn.css');
+
+.tic-tac-toe {
+  height: 100%;
+}
+.wrapper {
+  margin: 0 auto;
+}

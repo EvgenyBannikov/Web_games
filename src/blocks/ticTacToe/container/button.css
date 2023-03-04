@@ -1,0 +1,11 @@
+.x-element:after {
+  content: "\274c";
+  font-size: 128px;
+  color: red;
+}
+
+.o-element:after {
+  content: "\25CF";
+  font-size: 128px;
+  color: red;
+}

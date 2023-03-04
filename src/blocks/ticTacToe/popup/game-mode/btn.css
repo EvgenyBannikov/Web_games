@@ -1,0 +1,11 @@
+.tic-tac-toe__popup__game-mode__btn {
+  padding: 15px 35px 15px 35px;
+  font-size: 18px;
+  border-radius: 30px;
+}
+
+.tic-tac-toe__popup__select-player__btn {
+  padding: 15px 40px 15px 40px;
+  font-size: 25px;
+  border-radius: 30px;
+}
