@@ -11,6 +11,8 @@
 @import url('../global-style/paragraph/paragraph.css');
 @import url('../global-style/header-game/logo/logo.css');
 @import url('../theme/theme-grey/button/btn.css');
+@import url('./container/game-info/game-info.css');
+@import url('../global-style/game-info__text/text.css');
 
 .tic-tac-toe {
   height: 100%;

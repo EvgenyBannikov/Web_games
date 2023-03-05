@@ -1,8 +1,8 @@
 .tic-tac-toe__container {
-  display: grid;
+  display: inline-grid;
+  position: fixed;
   grid-template-columns: repeat(3, 175px);
   grid-template-rows: repeat(3, 175px);
   grid-gap: 10px;
-  justify-content: center;
   margin-top: 30px;
 }
